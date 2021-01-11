@@ -1,3 +1,5 @@
+# from link "SF Python"
+#
 import logging
 logging.basicConfig(level=logging.DEBUG)
 #logging.disable(logging.CRITICAL)
